@@ -1,6 +1,6 @@
 # Course-Project-Shiny-Application-and-Reproducible-Pitch-repo
 This repository contains R code and an R Markdown file for Shiny application. This is peer-graded Assignment for Coursera Developing Data Products course. The application 
 
-The final result can be seen 
+The application can be found at the following link:  [Simulation app](https://anastasiasimmet.shinyapps.io/Endogeneity/) . 
 
-The presentation explaining the application can be seen 
+The pitch presentation is awailable at the following link: [Pitch presentation](http://rpubs.com/frostik92/510773).
